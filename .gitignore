@@ -1,0 +1,9 @@
+# u-motasimfuad-rejected-olympic-sports-9d83e7da — local ignores, written 26 Nov 2026
+__pycache__/
+*.pyc
+*.pyo
+bundle.tar.gz
+/output/
+.DS_Store
+*.log
+.venv/
